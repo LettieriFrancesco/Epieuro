@@ -1,0 +1,55 @@
+﻿body {
+   
+}
+
+.buttonCategorie{
+}
+.boxScroll{
+    overflow-x: auto;
+    background-color: #eeee;
+}
+
+.boxScroll::-webkit-scrollbar{
+    width: 0;
+}
+
+.boxCategorie {
+    background-color: #eeee;
+}
+
+.custom-btn:hover {
+    color: #85cfce;
+}
+.carousel-item {
+    height: 70vh;
+}
+
+.card {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.hoverImg:hover {
+    transform: scale(1.05);
+    transition: .5s;
+}
+
+.footer-cta {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px;
+}
+
+.price {
+    color: #263238;
+    font-size: 24px;
+}
+
+.card-title {
+    color: #263238;
+}
+
+.sale {
+    color: #E53935;
+}
+
+.sale-badge {
+    background-color: #E53935;
+}
